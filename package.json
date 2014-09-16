@@ -1,0 +1,11 @@
+{
+  "name": "example-promise-from-hash",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "bluebird": "^2.3.2",
+    "promise-from-hash": "^1.0.0",
+    "request": "^2.42.0"
+  }
+}
